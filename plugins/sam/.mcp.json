@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sam": {
+      "type": "http",
+      "url": "https://sam.innovareai.com/api/mcp/v1"
+    }
+  }
+}
